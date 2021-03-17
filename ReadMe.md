@@ -1,4 +1,3 @@
-
 <h1 align="center"><img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width=36px> <b>YTMVTG</b> - <b>Y</b>ou<b>T</b>ube <b>M</b>usic <b>Vi</b>deos <b>T</b>humbnail <b>G</b>enerator</b></h1>
 <p></p>
 
@@ -8,7 +7,7 @@
 
 <p align="center"><a href="https://github.com/kubinka0505/YTMVTG/issues/"><img src="https://img.shields.io/github/issues/kubinka0505/YTMVTG?style=for-the-badge"></a>　<a href="https://www.gnu.org/licenses/gpl-3.0.txt"><img src="https://img.shields.io/badge/license-GPL%20V3-red?style=for-the-badge"></a></p>
 
-<p align="center"><img src="https://img.shields.io/codeclimate/maintainability/kubinka0505/YTMVTG?logo=code-climate&style=for-the-badge"></a></p>
+[//]: # (<p align="center"><img src="https://img.shields.io/codeclimate/maintainability/kubinka0505/YTMVTG?logo=code-climate&style=for-the-badge"></a></p>)
 
 <p align="center"><a href="https://colab.research.google.com/github/kubinka0505/YTMVTG/blob/master/Documents/YTMVTG.ipynb"><img src="https://img.shields.io/badge/colab-open-F9AB00?&logoColor=F9AB00&style=for-the-badge&logo=google-colab"></a></p>
 
@@ -29,7 +28,7 @@ YouTube Music Videos Thumbnail Generator.
 	cd YTMVTG
 	```
 2. Modify the parameters in the `Config.json`. [Its documentation can be found here](https://github.com/kubinka0505/YTMVTG/wiki/Configuration-Documentation).
-3. Open `Run.sh`
+3. Open system dependent shell file in the program directory.
 ...or go to Your command prompt and type the following: `python __init__.pyw`
 4. Share Your image from the `Images` directory.
 

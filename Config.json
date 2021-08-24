@@ -1,0 +1,17 @@
+{
+	"Image": {
+		"Aspect_Ratio": {
+			"Width": 16,
+			"Height": 9
+			},
+		"URL_or_Path": "https://media.discordapp.net/attachments/267356180064501760/879460900887724032/IMG_20210823_222327.pn",
+		"Output_Format": "PNG",
+		"Resizing_Algorithm": 3,
+		"Background_Brightness_Percentage": 75
+	},
+	"Settings": {
+		"Processing_Mode": 1,
+		"Sound": true,
+		"Colored_Prints": true
+		}
+}
